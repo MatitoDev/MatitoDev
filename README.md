@@ -10,6 +10,6 @@ Currently I'm working on projects like DiscordBots ([HarryPotterBot](https://hpb
 | -- | -- |
 |Python|Preferred|
 |JS/JQuery (+html,css)|basic knowlage|
-|Java|bit knowlage
+|Java|basic knowlage
 
 For questions just ask :)
