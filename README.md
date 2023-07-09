@@ -1,8 +1,8 @@
 # Hey There 👋
 
-My name is **Matito**. I am a young german Hobby-developer.
+*My name is **Matito**. I am a young german Hobby-developer.*
 
-Currently I'm working on projects like: 
+### Currently I'm working on projects like: 
 - DiscordBots
   * [HarryPotterBot](https://hpb.matito.dev)
   * [MTKP](https://www.mtkp-project.de)-Bot
