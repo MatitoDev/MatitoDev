@@ -19,4 +19,4 @@
 |JS/JQuery (+html,css)|basic knowlage|
 |Java|general knowlage
 
-For questions just ask :)
+For questions just ask :D
