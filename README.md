@@ -16,7 +16,8 @@
 |Languages|knowlage|
 | -- | -- |
 |Python|Preferred|
-|JS/JQuery (+html,css)|basic knowlage|
-|Java|general knowlage
+|JS/TS (+html,css)|basic knowlage|
+|React|basic knowlage|
+|Java|good knowlage
 
 For questions just ask :D
