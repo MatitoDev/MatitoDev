@@ -2,11 +2,10 @@
 
 *My name is **Matito**. I am a young german Hobby-developer.*
 
-### Currently I'm working on projects like: 
+### I'm currently working on the following projects: 
 - DiscordBots
   * [HarryPotterBot](https://hpb.matito.dev)
-  * [MTKP](https://www.mtkp-project.de)-Bot
-  * [SlimeCloud-Bots](https://github.com/orgs/SlimeCloud/repositories)
+  * Bots for Community Servers like [MTKP](https://technikkeller.info/dc), [SlimeCloud](https://github.com/orgs/SlimeCloud/repositories) or "DA"
 -  [small websites](https://matito.dev)
 -  [Minecraft Plugins](https://github.com/MatitoDA/TikTakToe).
 
