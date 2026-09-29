@@ -1,15 +1,16 @@
 # Heyjoo 👋
 
-My name is **Matito**. I am a young german Hobby-Developer.
+My name is **Matito**. I am a German computer science student.
 
 ### I work or have worked on the following projects: 
 - DiscordBots
   * [HarryPotterBot](https://hpb.matito.dev)
-  * Bots for Community Servers like [MTKP](https://technikkeller.info/dc), [SlimeCloud](https://github.com/orgs/SlimeCloud/repositories) or "DA"
+  * Bots for communities like [MTKP](https://technikkeller.info/dc), [SlimeCloud](https://github.com/orgs/SlimeCloud/repositories) or "DA"
 -  [small websites](https://matito.dev)
 -  [Minecraft Plugins](https://github.com/MatitoDev/AllAdvancement)
--  embedded Projects
--  [Reinforement Learning](https://github.com/MatitoDev/q-learning) 
+-  embedded projects
+-  [Reinforement Learning](https://github.com/MatitoDev/snake_ai)
+-  Network administration
 
 
 ## Skills
@@ -23,6 +24,7 @@ My name is **Matito**. I am a young german Hobby-Developer.
 |C/C++|basics, lerning
 |Simatic S7 incl. Electronics|good+, lerning
 |Docker|basic
+|Networks|basic
 |and more
 
 For questions just ask :D
